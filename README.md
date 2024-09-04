@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazy1011&show_icons=true&locale=en&layout=compact" alt="lazy1011" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazy1011&show_icons=true&locale=en" alt="lazy1011" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazy1011&" alt="lazy1011" /></p>
